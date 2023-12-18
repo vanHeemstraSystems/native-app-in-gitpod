@@ -3,6 +3,8 @@ native-app-in-gitpod
 
 Based on "Developing native UI applications in Gitpod" at https://www.gitpod.io/blog/native-ui-with-vnc
 
+Based on "Hello world UI example for Gitpod" at https://github.com/csweichel/gitpod-hello-ui-demo
+
 # 100 - Introduction
 
 See [README.md](./100/README.md)
