@@ -1,0 +1,9 @@
+checkoutLocation: src/github.com/vanHeemstraSystems/native-app-in-gitpod
+workspaceLocation: /
+image:
+  file: Dockerfile
+ports:
+  - port: 6080
+    protocol: "http"
+tasks:
+  - command: "go get -v ./... && go run main.go"
